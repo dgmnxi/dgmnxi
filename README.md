@@ -28,6 +28,7 @@
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c++&logoColor=white">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgmnxi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br />
 <br />
