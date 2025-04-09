@@ -4,10 +4,11 @@
 3rd year CS undergrad at Gachon University.
 Currently studying ML/DL and working toward grad school applications (US/Canada).
 
-##My Interest
+
+## My Interest
 
 ML/DL models
-...
+--추가 예정--
 
 ## My values
 
