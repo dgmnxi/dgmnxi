@@ -1,9 +1,13 @@
 
-## Hello! Let me introduce myself!
+## About Me
 
-안녕하세요! 김병민입니다. 개발은 Perfection이 아닌 Dealing with bug라는 생각으로, 버그가 발생하는 것을 즐겁게 생각합니다.
-함께 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다.
+3rd year CS undergrad at Gachon University.
+Currently studying ML/DL and working toward grad school applications (US/Canada).
 
+##My Interest
+
+ML/DL models
+...
 
 ## My values
 
